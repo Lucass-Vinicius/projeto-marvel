@@ -1,7 +1,7 @@
 # 🎮 Projeto-Marvel
  Este projeto foi realizado durante a Semana MapaDev, da equipe [Dev em Dobro](https://github.com/devemdobro), ele consiste em basicamente um seletor de personagens da cultura geek no estilos dos jogos Marvel vs Capcom.
 
- _**Veja o resultado [clicando aqui](https://lucass-vinicius.github.io/Projeto-Marvel/)**_
+ _**Veja o resultado [clicando aqui](https://lucass-vinicius.github.io/projeto-marvel/)**_
  
  ### 🚀 Tecnologias usadas:
 * HTML
